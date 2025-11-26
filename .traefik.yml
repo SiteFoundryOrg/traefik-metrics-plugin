@@ -1,0 +1,7 @@
+displayName: Metrics Middleware
+type: middleware
+
+import: github.com/SiteFoundryOrg/traefik-metrics-plugin
+
+summary: 'Collect and expose request metrics'
+
