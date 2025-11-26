@@ -1,4 +1,4 @@
-module metrics-plugin
+module github.com/SiteFoundryOrg/traefik-metrics-plugin
 
 go 1.24.7
 
